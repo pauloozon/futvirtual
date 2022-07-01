@@ -1,0 +1,29 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "modern-random-ua": "^1.0.3",
+    "puppeteer": "^14.3.0",
+    "puppeteer-core": "^1.9.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "request": "^2.88.2",
+    "translate": "^1.4.1",
+    "translate-api": "^0.3.18",
+    "user-agents": "^1.0.1045",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "description": ""
+}
